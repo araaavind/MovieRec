@@ -1,0 +1,13 @@
+Collecting Data
+Filtering Data
+    Content Based Filtering
+        Cosine Similarity
+        Euclidian distance
+        Pearson's correlation
+    Collaborative Filtering
+        User-User Collaborative Filtering
+        Item-Item Collaborative Filtering
+        Cold Start
+            Vistior cold start
+            Product cold start
+
